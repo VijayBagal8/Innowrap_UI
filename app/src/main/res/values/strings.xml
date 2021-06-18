@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskUI</string>
+    <string name="visit_page">Visit Page</string>
+    <string name="colors_of_nature">Evening Vibes</string>
+    <string name="heading">This is an evening of Wonders,indeed!!</string>
+    <string name="click_to_know_more"><b>evening is peaceful</b>\n\n\nClick to know more</string>
+    <string name="menu">menu</string>
+</resources>
